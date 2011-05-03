@@ -1,5 +1,5 @@
 
-1.38 - Tue May  3 14:07:46 2011
+1.39 - Tue May  3 14:16:36 2011
 	* Made the regexes non-greedy. RT #67924
 	* This is an adoptable module. You can take it over immediately
 	since the previous maintainer has released it.
