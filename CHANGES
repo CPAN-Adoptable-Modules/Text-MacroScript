@@ -1,4 +1,9 @@
 
+1.38 - Tue May  3 14:07:46 2011
+	* Made the regexes non-greedy. RT #67924
+	* This is an adoptable module. You can take it over immediately
+	since the previous maintainer has released it.
+
 v1.38 - 2003/08/29
 
 Added a patch from Andrew Eland that provides a warning if you have a
