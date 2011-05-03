@@ -1,7 +1,5 @@
 package Text::MacroScript ; # Documented at the __END__.
 
-# $Id: MacroScript.pm,v 1.31 2000/04/27 20:45:14 root Exp root $
-
 require 5.004 ;
 
 use strict ;
